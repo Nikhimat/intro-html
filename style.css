@@ -12,7 +12,7 @@ body {
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
 }
-
+  <link rel="stylesheet" href="style.css">
 body:after {
     content: "Thanks to Unsplash (background image)";
     position: fixed;
